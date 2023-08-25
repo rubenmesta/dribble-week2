@@ -1,0 +1,17 @@
+.bg {
+  background-color: #0b1525 !important;
+}
+
+.nav_container {
+  padding: 1rem 5rem;
+}
+
+.nav_link,
+.navbar-toggler {
+  color: #fff !important;
+}
+
+.navbar_items {
+  display: flex;
+  justify-content: space-between;
+}

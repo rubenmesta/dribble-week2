@@ -1,0 +1,26 @@
+.bg {
+  background-image: url('/public/img/banner-homepage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+}
+
+.content_wrapper {
+  position: relative;
+  width: 100%;
+  left: 18%;
+}
+
+.title {
+  color: #b1844e;
+}
+
+.subtitle {
+  color: #fff;
+  font-family: 'Prata', serif;
+  font-size: 5rem;
+  margin-bottom: 2rem;
+}
