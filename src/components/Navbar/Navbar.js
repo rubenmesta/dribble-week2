@@ -7,12 +7,13 @@ export const Navbar = () => {
     <nav className={cx(styles.bg, 'navbar navbar-expand-lg bg-body-tertiary')}>
       <div className={cx(styles.nav_container, 'container-fluid')}>
         <a className="navbar-brand" href="#">
-          <img
+          {/* <img
             src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg"
             alt="Bootstrap"
-            width="30"
-            height="24"
-          />
+            width="50"
+            height="44"
+          /> */}
+          <h1 className={styles.nav_link}>Logo</h1>
         </a>
 
         <div className={styles.navbar_items} id="navbarNav">

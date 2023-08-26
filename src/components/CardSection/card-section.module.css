@@ -1,0 +1,24 @@
+.section {
+  margin: 5rem 0 0;
+}
+
+.bg {
+  background-color: rgba(203, 211, 221, 0.6);
+}
+
+.section_wrapper {
+  padding: 4rem 0;
+}
+
+.section_wrapper h3 {
+  margin-bottom: 3rem;
+  text-align: center;
+  font-family: 'Prata';
+  font-size: 3rem;
+}
+
+.card_body h4 {
+  font-family: 'Prata';
+  font-size: 1.5rem;
+  color: #b1844e;
+}
