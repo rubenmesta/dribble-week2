@@ -24,21 +24,21 @@ export const Navbar = () => {
                 aria-current="page"
                 href="#"
               >
-                Home
+                Menus
               </a>
             </li>
             <li className="nav-item">
               <a className={cx(styles.nav_link, 'nav-link')} href="#">
-                Features
+                Private Dining
               </a>
             </li>
             <li className="nav-item">
               <a className={cx(styles.nav_link, 'nav-link')} href="#">
-                Pricing
+                Reservations
               </a>
             </li>
             <li className="nav-item">
-              <a className={cx(styles.nav_link, 'nav-link')}>Disabled</a>
+              <a className={cx(styles.nav_link, 'nav-link')}>Gift Cards</a>
             </li>
           </ul>
         </div>
